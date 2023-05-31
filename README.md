@@ -73,26 +73,39 @@ sm.qqplot(df5['ModerateNegativeSkew_2'],line='45')
 plt.show()
 ```
 OUTPUT:
-## Feature Transformation - Data_to_Transform.csv
+### Feature Transformation - Data_to_Transform.csv
 
+![output](https://github.com/Hemapriya-2004/Ex-06-Feature-Transformation/blob/main/6.1.jpg)
 
+![output](https://github.com/Hemapriya-2004/Ex-06-Feature-Transformation/blob/main/6.2.jpg)
 
-## Log Transformation
+![output](https://github.com/Hemapriya-2004/Ex-06-Feature-Transformation/blob/main/6.3.jpg)
 
+![output](https://github.com/Hemapriya-2004/Ex-06-Feature-Transformation/blob/main/6.4.jpg)
 
-## Reciprocal Transformation
+![output](https://github.com/Hemapriya-2004/Ex-06-Feature-Transformation/blob/main/6.5.jpg)
 
+### Log Transformation
 
-## SquareRoot Transformation
+![output](https://github.com/Hemapriya-2004/Ex-06-Feature-Transformation/blob/main/6.6.jpg)
 
+### Reciprocal Transformation
 
-## Power Transformation
+![output](https://github.com/Hemapriya-2004/Ex-06-Feature-Transformation/blob/main/6.7.jpg)
 
+### SquareRoot Transformation
 
+![output](https://github.com/Hemapriya-2004/Ex-06-Feature-Transformation/blob/main/6.8.jpg)
 
+### Power Transformation
 
-## Quantile Transformation
+![output](https://github.com/Hemapriya-2004/Ex-06-Feature-Transformation/blob/main/6.9.jpg)
 
+![output](https://github.com/Hemapriya-2004/Ex-06-Feature-Transformation/blob/main/6.10.jpg)
 
-# RESULT:
+### Quantile Transformation
+
+![output](https://github.com/Hemapriya-2004/Ex-06-Feature-Transformation/blob/main/6.11.jpg)
+
+## RESULT:
 Thus the Feature Transformation for the given datasets had been executed successfully
